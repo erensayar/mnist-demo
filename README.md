@@ -1,0 +1,1 @@
+It's my MNIST demo for AI&ANN course at the college.
