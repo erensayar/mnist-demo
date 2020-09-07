@@ -1,1 +1,1 @@
-It's my MNIST demo for AI&ANN course at the college.
+It's my MNIST demo for AI&DL course at the college.
